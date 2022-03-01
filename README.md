@@ -8,4 +8,4 @@ If you think a map should be added, create a new issue with the map name and a r
 
 -pixeld.
 
-Feel free to share and make changes to the script, but please meantion me as the original 
+Feel free to share and make changes to the script, but please credit me
